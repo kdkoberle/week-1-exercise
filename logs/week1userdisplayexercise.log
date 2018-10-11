@@ -1,0 +1,1 @@
+[ERROR] 2018-09-14 18:24:32.316 [http-nio-8080-exec-10] UserData - SearchUser.getAUser()...SQL Exception: com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Unknown column 'last_nam' in 'where clause'
